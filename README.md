@@ -1,3 +1,3 @@
 ## About Proyect 
 
-sistema de gestion de inventario y ventas a una empres de serigrafía en bolsas conocida como "Screen Boutique". Sus productos son distribuidos a distintas empresas de la region
+inventory and sales management system for a bag screen printing company known as "Screen Boutique". Its products are distributed to different companies in the region
