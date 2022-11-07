@@ -1,3 +1,7 @@
 *
+!backup-temp/
+!designs/
+!screen-boutique/
+!livewire-tmp/
 !public/
 !.gitignore
