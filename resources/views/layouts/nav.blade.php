@@ -15,7 +15,7 @@
         
         <div class="offcanvas-header slidebar__background--color text-light">
 
-            <a href="{{('index.php')}}">
+            <a href="{{route('main')}}">
                 <img src="{{ asset('images/logo.png')}}" alt="" width="70" height="70">
             </a>
 
