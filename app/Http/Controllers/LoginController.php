@@ -21,7 +21,7 @@ class LoginController extends Controller
         if (Auth::attempt(['user'=>$user, 'password'=>$pass])) {
             $request->session()->regenerate();
             
-            return redirect()->route('index');
+            return redirect()->route('main');
         }
         return back()->withErrors([
             'password' => 'El usuario o la contraseña son incorrectos',
